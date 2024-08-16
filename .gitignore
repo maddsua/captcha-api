@@ -1,0 +1,5 @@
+# npm garbage
+node_modules/
+*.tgz
+package-lock.json
+dist
